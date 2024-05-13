@@ -43,5 +43,3 @@ query = "a cop is chasing a criminal"
 #%%
 print("Response from RAG")
 print("-------------------------------------------------")
-
-
